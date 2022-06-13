@@ -1,2 +1,13 @@
 * Kannada core vocabulary deck
-This repository hosts code used to generate an anki deck for Kannada vocabulary.
+This repository hosts code used to generate an anki deck for Kannada
+vocabulary. You can get the deck either from this repository, which
+may be outdated, or ankiweb [[https://ankiweb.net/shared/info/1478102679][here]].
+
+Please see ~make_deck.ipynb~ for the code used to generate the deck.
+
+** Sources
+Word frequencies and sentences come from Leipzig University's
+[[https://corpora.uni-leipzig.de/en][corpus collection]]. Changes were not made to their data.
+
+Definitions are from V. Krishna's [[https://alar.ink][alar]] dictionary. It is licensed
+under the ODC-ODbl open data license.
