@@ -1,0 +1,2 @@
+* Kannada core vocabulary deck
+This repository hosts code used to generate an anki deck for Kannada vocabulary.
